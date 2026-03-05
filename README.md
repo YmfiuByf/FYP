@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="FYP.png" alt="Sentiment and Emotion Recognition from Speech to Enhance Human-Robot Interaction" width="95%">
+</p>
+
 # Sentiment and Emotion Recognition from Speech to Enhance Human-Robot Interaction
 
 This repository contains the implementation and report materials for the project **Sentiment and Emotion Recognition from Speech to Enhance Human-Robot Interaction**.
